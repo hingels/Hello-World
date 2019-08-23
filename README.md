@@ -1,2 +1,2 @@
-# This is a simple program that tests GitHub
+# This is a simple file to test GitHub
 # By hingels
